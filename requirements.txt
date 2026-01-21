@@ -1,5 +1,5 @@
 pandas
-streamlit
-seaborn
 matplotlib
-altair
+seaborn
+streamlit
+altair<5
